@@ -3,7 +3,7 @@
 .idea
 .ruff_cache
 
-.env
+
 
 database-data
 
